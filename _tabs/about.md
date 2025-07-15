@@ -1,8 +1,12 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: "About"
+permalink: /about/
+layout: page
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+👋 **Hi, I'm Maciej** — a passionate automation engineer specializing in **PowerShell**, **Azure DevOps**, and **Microsoft 365**.
+
+My mission is to make IT operations simpler and more efficient through automation. I build reusable scripts, pipeline templates, and solutions that help teams move faster and work smarter.
+
+💼 **LinkedIn:** [maciej-kasperczyk](https://www.linkedin.com/in/maciej-kasperczyk-b425321a9)  
+✉️ **Email:** [maciej.kasperczyk.scriptify365@gmail.com](mailto:maciej.kasperczyk.scriptify365@gmail.com)
