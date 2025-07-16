@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Welcome to Scriptify365"
+permalink: /
 ---
 
 Welcome to **Scriptify365** 👋 — a blog dedicated to automation in Microsoft 365 environments using **PowerShell**, **Azure DevOps**, and modern scripting workflows.
